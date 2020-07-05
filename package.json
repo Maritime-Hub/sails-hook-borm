@@ -1,0 +1,21 @@
+{
+  "name": "@iatelier/sails-hook-borm",
+  "version": "0.0.1",
+  "description": "Bookshelf ORM sails hook",
+  "main": "index.js",
+  "sails": {
+    "isHook": true,
+    "hookName": "borm"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Captain Husayn Pinguin",
+  "license": "MIT",
+  "dependencies": {
+    "bookshelf": "^1.1.1",
+    "bookshelf-virtuals-plugin": "^0.1.1",
+    "knex": "^0.21.1",
+    "mysql": "^2.18.1"
+  }
+}
