@@ -1,6 +1,6 @@
 {
   "name": "@iatelier/sails-hook-borm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Bookshelf ORM sails hook",
   "main": "index.js",
   "sails": {
@@ -13,7 +13,7 @@
   "author": "Captain Husayn Pinguin",
   "license": "MIT",
   "dependencies": {
-    "bookshelf": "^1.1.1",
+    "bookshelf": "^1.2.0",
     "bookshelf-virtuals-plugin": "^0.1.1",
     "knex": "^0.21.1",
     "mysql": "^2.18.1"
