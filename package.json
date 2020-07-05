@@ -1,6 +1,6 @@
 {
   "name": "@iatelier/sails-hook-borm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bookshelf ORM sails hook",
   "main": "index.js",
   "sails": {
